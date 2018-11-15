@@ -114,6 +114,7 @@ conDis_1980 <- select(disadvantage80, GeoID, index_80)
 
 #1990
 
+
 index90 <- select(decline, GeoID, Pop_90, PerWhite_90, PerFH_90, Edu08_90, Edu812_90, X25pop_90, PovPer_90, PerUnEmp_90)
 
 geoindex90 <- mutate(index90, 
