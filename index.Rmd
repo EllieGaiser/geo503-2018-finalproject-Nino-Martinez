@@ -58,7 +58,7 @@ In order to properly quantify gentrification, it is necessary to measure urban d
 library(dplyr)
 library(tidyverse)
 library(ggplot2)
-library(tmap)
+library(tmap) 
 library(broom)
 library(ggmap)
 library(sp)
